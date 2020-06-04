@@ -7,7 +7,14 @@ or clear the list entirely
 all of this is done without refreshing the page.
 
 Screenshots:
+![](Screenshots&Video/1.png)
 
+![](Screenshots&Video/2.png)
+
+![](Screenshots&Video/3.png)
+
+Video:
+![](Screenshots&Video/To-doList.mp4)
 
 Note: After the page is reloaded, data is not stored in some database. It is just a webpage.
 
