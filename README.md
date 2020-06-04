@@ -1,3 +1,16 @@
+
+## A To-do-List Webpage made using React JS.
+User can create new tasks and add them to the list,
+can edit the already created tasks,
+delete tasks,
+or clear the list entirely
+all of this is done without refreshing the page.
+
+Screenshots:
+
+
+Note: After the page is reloaded, data is not stored in some database. It is just a webpage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
